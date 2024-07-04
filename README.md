@@ -1,4 +1,4 @@
-# Flappy Bird ML Model
+# Flappy Bird Neural Network
 
 Made with the help of [this series by Tech With Tim](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2)
 
